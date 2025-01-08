@@ -54,4 +54,7 @@ Exit the editor by pressing `esc` then `:wq` to close the editor.
 
 ### 4. Verification
 
-Open a browser and navigate to the [landing page](http://54.89.250.148/) to access the page.
+Open a browser and navigate to the [landing page](http://54.89.250.148/) to confirm the secure connection.
+
+## Usage
+Click [HERE](http://54.89.250.148/) to access the landing page.
